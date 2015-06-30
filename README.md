@@ -1,3 +1,3 @@
 # SortingAlgorithms
 
-To be completed!
+Sorting Algorithms in C++. Insertion, Merg and ... . To be completed!
