@@ -1,3 +1,9 @@
+//-- QUICK SORT, Complexity O(nlog(n)) for average case and O(n^2) for worst case which is a sorted list.
+//-- in Quick Sort, we consider a value of the array as pivot and then we divide the array into lower and greater
+//-- subarrays in the left and rigth side of the pivot. Which means that every element on the left of the pivot
+//-- is lower than pivot and each element on the right side of the pivot is greater than pivot.
+//-- We keep doing this till we get to the subarrays of size 1.
+
 #include <iostream>
 #include <vector>
 
