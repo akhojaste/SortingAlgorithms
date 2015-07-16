@@ -1,3 +1,3 @@
 # SortingAlgorithms
 
-Sorting Algorithms in C++. Insertion, Merg and ... . To be completed!
+Sorting Algorithms in C++. Bubble sort, Quick Sort, Insertion sort, Merg sort, ... . To be Completed!
