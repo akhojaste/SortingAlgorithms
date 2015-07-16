@@ -62,8 +62,8 @@ int main(int argc, char* argv[]){
   std::vector<int> nums = {6,5,-1,3,-8,4,7,9,2};
 	
   printNum(nums);
-	QuickSort(nums, 0, nums.size()-1);
-	printNum(nums);
+  QuickSort(nums, 0, nums.size()-1);
+  printNum(nums);
 	
-	return 0;
+  return 0;
 }
