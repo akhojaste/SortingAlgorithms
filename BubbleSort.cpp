@@ -1,3 +1,10 @@
+//-- BUBBLE SORT, Complexity O(n^2)
+//-- Bubble sort compares every two elements of an array and swap them if they are not sorted
+//-- or leave them untouched if they are sorted.
+//-- For instance, it compares the 1st and the 2nd elements : if not sorted then swap, else leave untouch
+//-- 2nd and 3rd elements: if not sorted then swap else leave untouch
+//-- (N-1)th and Nth elements: if not sorted then swap else leave untouch
+
 #include <iostream>
 #include <vector>
 
