@@ -60,7 +60,8 @@ void MergSort(std::vector<int> &num, std::vector<int> &SortedNum){
 		std::vector<int>::iterator middle = num.begin() + (num.size() / 2);
 		std::vector<int> num1(num.begin(), middle);
 		std::vector<int> num2(middle, num.end());
-
+		
+		//-- Sort each of these two sublists
 		MergSort(num1, SortedNum1);
 		MergSort(num2, SortedNum2);
 
