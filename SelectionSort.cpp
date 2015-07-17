@@ -43,8 +43,8 @@ int main(int argc, char* argv[])
   std::vector<int> nums = {-6,5,-1,3,-8,4,7,9,2, 12, -23, -1, 15};
   
   printNum(nums);
-	SelectionSort(nums, 0);
-	printNum(nums);
+  SelectionSort(nums, 0);
+  printNum(nums);
 	
-	return 0;
+  return 0;
 }
